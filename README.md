@@ -3,7 +3,7 @@ A macos for doge.
 
 # How to download
 
-Get the the latest version of "DogeOS.exe"
+Get the the latest version of "DogeOS.exe" from the releases section
 
 and run it
 
